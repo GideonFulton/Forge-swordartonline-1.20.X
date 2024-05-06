@@ -22,7 +22,6 @@ public class SwordArtOnline
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
-
     public SwordArtOnline() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
